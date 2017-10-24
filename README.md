@@ -2,7 +2,7 @@
 
 ## About
 
-This is the docker compose file for making Owncloud run inside docker container. It will also set up MariaDB.
+This is the docker compose file for making Owncloud run inside docker container. It will also set up MySQL.
 
 ## Usage
 
